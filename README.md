@@ -1,4 +1,4 @@
-# 30Days-Gulp
+# 30天精通Gulp與應用
 
 ## Goal: 30天學會Gulp與各種實務Task並導入開發流程中。
 
